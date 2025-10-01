@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sameer Gautam  
+# 👋 Hello, I'm Sameer Singh Gautam  
 
 🚀 Adaptable and results-driven **Software Engineer & Data Engineer**  
 💻 Skilled in MERN stack development, backend engineering, and building robust ETL pipelines.  
